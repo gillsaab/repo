@@ -26,7 +26,17 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.megadev.r0wdrunner.situm
+Version: 1.0-2+debug
+Section: Tweaks
+Maintainer: GillSaaB <gill@computer4u.com>
+Depends: firmware (<13.0)
+Architecture: iphoneos-arm
 Filename: ./debs/com.megadev.r0wdrunner.situm.deb
-Depiction: https://gillsaab.github.io/repo/depictions/situm
 Size: 31450
 MD5sum: 8B4D429071E83846F0130360CAB81D8B
+Description: SITUM lets you initiate a search engine query from anywhere in iOS
+Name: Situm
+Author: GillSaaB <gill@computer4u.com>
+Depiction: https://gillsaab.github.io/repo/depictions/situm
+
